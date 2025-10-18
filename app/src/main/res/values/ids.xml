@@ -1,0 +1,6 @@
+
+<resources>
+    <item name="button_contact" type="id">contact'</item>
+    <item name="button_map" type="id">map</item>
+    <item name="button_sms" type="id">sms</item>
+</resources>
